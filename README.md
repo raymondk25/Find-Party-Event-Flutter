@@ -1,4 +1,4 @@
-# Find Party Event
+# Find Party Event 🥳🎉
 
 ### Description:
 
