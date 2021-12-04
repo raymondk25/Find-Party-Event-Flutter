@@ -1,16 +1,13 @@
-# flutter_party_event
+# Find Party Event
 
-A new Flutter project.
+### Description:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ This event app is a smart choice for in-person events in particular.
+ 
+### Screeshots
+<p float="left">
+<img src="https://user-images.githubusercontent.com/66002375/144704789-2b1d5640-e8c7-49ac-9d40-1bb56e9024ea.png" widht="200" height="400">
+<img src="https://user-images.githubusercontent.com/66002375/144704962-9d587e0d-dfab-4168-b617-96e1a02f0ffe.png" widht="200" height="400">
+<img src="https://user-images.githubusercontent.com/66002375/144704967-4e9403b8-fa19-41fb-94ee-ca060157ea9c.png" widht="200" height="400">
+<img src="https://user-images.githubusercontent.com/66002375/144704968-5d2b622c-9911-4e86-8073-b39dfa4fee0a.png" widht="200" height="400">
+</p>
