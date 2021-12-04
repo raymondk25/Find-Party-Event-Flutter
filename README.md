@@ -2,7 +2,7 @@
 
 ### Description:
 
-Discover Events & upcoming events in your city and near you. Get personalized event recommendations! <br>
+Discover events & upcoming events in your city and near you. Get personalized event recommendations! <br>
 Find events your friends are attending and follow them to stay updated on their activities.
  
 ### Screeshots
